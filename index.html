@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Calculadora de Triángulos</title>
+    <link rel="stylesheet" href="assets/styles/styles.css">
+
+</head>
+<body>
+    <h2>Calculadora de Triángulos</h2>
+    
+    <div>
+        <label for="ladoA">Lado A:</label>
+        <input type="number" id="ladoA" placeholder="Ingrese el lado A" required>
+        <label for="ladoB">Lado B:</label>
+        <input type="number" id="ladoB" placeholder="Ingrese el lado B" required>
+        <label for="ladoC">Lado C:</label>
+        <input type="number" id="ladoC" placeholder="Ingrese el lado C" required>
+        <button id="btnCalcular" onclick="calcularTriangulo()">Calcular</button>
+        <button onclick="resetearFormulario()">Nueva Búsqueda</button>
+    </div>  
+    
+    <div id="resultado"></div>
+    <img id="imagenTriangulo" src="" alt="Imagen del Triángulo" style="max-width: 400px; display: none;">
+    
+    <script src="script.js"></script>
+</body>
+</html>
