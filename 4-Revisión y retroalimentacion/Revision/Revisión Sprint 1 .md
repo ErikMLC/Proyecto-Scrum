@@ -50,6 +50,6 @@ Los pasos para el próximo sprint incluyen:
 
 2. Asignar un usuario y una contraseña al profesor o profesora.
 
-3. Añadir un profesor interactivo que reaccione frente al ingreso de datos no válidos dando una recomendación o regla general.
+3. Añadir un chat interactivo que reaccione frente al ingreso de datos no válidos dando una recomendación o regla general.
 
 La Revisión del Sprint proporcionó una visión clara del progreso y permitió al equipo y a los interesados en el producto evaluar el trabajo realizado.

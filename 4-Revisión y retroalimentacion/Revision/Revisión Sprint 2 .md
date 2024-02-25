@@ -21,7 +21,7 @@
 
 ## Resumen de la Revisión:
 
-Durante el Sprint 2, el equipo "InnovaTI" se centró en implementar la funcionalidad de mostrar restricciones de acceso implementando usuarios y contraseñas Además de añadir un profesor interactivo que resalte la regla general a cummplir en la clasificación de triángulos. Se han completado con éxito todas las tareas planificadas, incluyendo la creación de un usuario y contraseña específica para el docente, la lógica de alerta para el profesor interactivo, el manejo de errores, la integración y las pruebas. 
+Durante el Sprint 2, el equipo "InnovaTI" se centró en implementar la funcionalidad de mostrar restricciones de acceso implementando usuarios y contraseñas Además de añadir un chat interactivo que resalte la regla general a cummplir en la clasificación de triángulos. Se han completado con éxito todas las tareas planificadas, incluyendo la creación de un usuario y contraseña específica para el docente, la lógica de alerta para el chat interactivo, el manejo de errores, la integración y las pruebas. 
 
 ## Demostración:
 
@@ -29,15 +29,15 @@ En la revisión, el equipo realizó una demostración de las funcionalidades imp
 
 1. Creación de una nueva página llamada login.html con estilo acorde a la docencia infantil 
 
-2. Creación de un mensaje correctivo de mano de un "profesor interactivo"
+2. Creación de un mensaje correctivo de mano de un "chat interactivo"
 
-3. Se mostró el manejo de errores al iusuarios y contraseñas.
+3. Se mostró el manejo de errores al usuarios y contraseñas.
 
-4. Se ejecutaron pruebas y se demostró la funcionalidad de las recomendaciones del "profesor interactivo".
+4. Se ejecutaron pruebas y se demostró la funcionalidad de las recomendaciones del "chat interactivo".
 
 ## Retroalimentación del Producto:
 
-Durante la demostración, se recibió retroalimentación positiva del Producto. Los usuarios evaluaron el ingreso con credenciales válidas y erróneas dentro de la aplicación. Se destacaron los mensajes correctivos claros en caso de entradas inválidas por parte del "profesor interactivo" como un aspecto positivo.
+Durante la demostración, se recibió retroalimentación positiva del Producto. Los usuarios evaluaron el ingreso con credenciales válidas y erróneas dentro de la aplicación. Se destacaron los mensajes correctivos claros en caso de entradas inválidas por parte del "chat interactivo" como un aspecto positivo.
 
 ## Conclusiones y Próximos Pasos:
 
