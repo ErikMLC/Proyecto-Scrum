@@ -14,8 +14,7 @@ Desarrollo de un programa interactivo para calcular el tipo de triángulo, con u
    - Implementar un chatbot integrado que brinde asistencia al usuario en caso de cometer errores al ingresar datos, proporcionando explicaciones claras y recomendaciones.
 
 4. **Sistema de Login para Profesores:**
-   - Crear un sistema seguro de login para que los profesores de primaria puedan acceder a funcionalidades adicionales, como seguimiento de progreso de los estudiantes y generación de informes.
-
+   - Crear un sistema seguro de login para que los profesores de primaria puedan acceder a funcionalidades.
 ## Alcance
 El proyecto se centrará en desarrollar una calculadora de tipo de triángulo con funcionalidades básicas y una interfaz gráfica. La inclusión de un chatbot de ayuda y un sistema de login para profesores ampliará la experiencia del usuario y brindará valor añadido a los educadores.
 
