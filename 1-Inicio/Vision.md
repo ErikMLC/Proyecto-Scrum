@@ -52,5 +52,3 @@ El proyecto se centrará en desarrollar una calculadora de tipo de triángulo co
 
 5. **Accesibilidad:**
    - Asegurarse de que el programa sea accesible para usuarios con discapacidades, cumpliendo con estándares de accesibilidad.
-
-Este enfoque integral permitirá desarrollar una herramienta educativa efectiva y fácil de usar para estudiantes, con características adicionales para los profesores que buscan supervisar y evaluar el progreso de sus alumnos.
