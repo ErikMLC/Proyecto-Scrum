@@ -34,17 +34,3 @@ Mejorar la aplicación para manejar casos de entrada inválida y proporcionar me
 2. **Mensaje de Error Informativo:**
    - Como usuario, quiero que el mensaje de error indique claramente que la entrada no es válida.
    - Como usuario, quiero que el mensaje de error proporcione instrucciones claras sobre cómo ingresar longitudes válidas.
-
-### HU3: Continuidad de la Ejecución
-
-#### Descripción:
-Permitir que la aplicación continúe ejecutándose hasta que el usuario decida finalizarla, ofreciendo opciones claras después de cada cálculo.
-
-#### Criterios de Aceptación:
-1. **Opción de Traducir Otro Número:**
-   - Como usuario, quiero que después de cada cálculo, la aplicación ofrezca la opción de ingresar las longitudes de otro triángulo.
-   - Como usuario, quiero que si elijo traducir otro número, la aplicación permita ingresar nuevas longitudes y realice los cálculos correspondientes.
-
-2. **Finalización Ordenada:**
-   - Como usuario, quiero que si decido no traducir otro número, la aplicación finalice de manera ordenada.
-   - Como usuario, quiero que la aplicación cierre la ejecución de forma clara y sin errores.
